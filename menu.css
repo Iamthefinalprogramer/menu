@@ -37,6 +37,7 @@
     border-bottom-right-radius: 40px;
     height: 460px;
     margin-right: 1em;
+    max-width: 550px;
 }
 
 .omg-go-center {
